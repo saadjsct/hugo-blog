@@ -10,7 +10,7 @@ enableEmoji: true
 pygmentsUseClasses: true
 
 params:
-  defaultTheme: dark
+  defaultTheme: light
   title: "Saad JSCT"
   homeInfoParams:
       Title: Saad's Blog
@@ -47,10 +47,10 @@ menu:
     #   name: About
     #   url: /about
     #   weight: 1
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
