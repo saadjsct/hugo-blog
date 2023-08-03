@@ -18,7 +18,7 @@ Now that we have decoded the graph, I want to share some quick observations that
 
 Starting from the obvious, this is the strongest statement about the internal integrity of the bible. You can't find this kind of internal connections anywhere except in an organic structure. This is actually what makes organic structures so distinct from any man-made system, that is, the complexity of everything being connected to everything. so when Paul called the scriptures "*living*" in his epistle to the Hebrews in a context of heavy referencing to the Old Testament, I imagine he had something like this in his mind.
 
-## non-linearit
+## non-linearity
 Another structural property that is clear from the graph is the non-linearity of the scriptures. By non-linearity I mean that the progression of the book doesn't move in a straight line, neither in time (chronologically) nor in abstraction (from the simpler to the more complex). Even if you haven't read the bible before, you can clearly see from a structural point of view of this graph that whatever this book is about, **the beginnings are in the ends and the ends are in the beginnings. and you can't fully understand the first chapter of the book without every other chapter.** 
 
 ## About the subject
