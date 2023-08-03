@@ -1,0 +1,68 @@
+baseURL: https://saadjsct.gitlab.io/blog/
+
+languageCode: en-us
+theme: "PaperMod"
+title: "Saad JSCT"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+params:
+  defaultTheme: dark
+  title: "Saad JSCT"
+  homeInfoParams:
+      Title: Saad's Blog
+      Content: |
+        **I'm Saad, and I'm glad you found it here. Thanks for stopping by.**
+
+        You will find nothing here to consume, and nothing to consume you. Nothing but the good old human communication of two siblings, comforting themselves in their way and life, in truth.
+
+        If you have any comments or thoughts to share, let's exchange emails about them on (saadjsct@gmail.com)
+
+  fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+      keys: ["title", "permalink", "summary", "content"] 
+
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  DateFormat: "January 2006"
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowWordCount: true
+
+  cover:
+    linkFullImages: true
+    responsiveImages: true
+
+menu:
+  main:
+    # - identifier: about
+    #   name: About
+    #   url: /about
+    #   weight: 1
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
