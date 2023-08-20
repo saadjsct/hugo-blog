@@ -26,11 +26,15 @@ in this post I will try to objectivly look into what does it mean for a religion
 
 # defining Organized Religion
 
-before we get into the "Organized" part of the problem, there is one simplification trick that is used in the field of linguistics and I think is very helpful to borrow in this context. that is the treatment of dialicts as a separate languages. this is a justified  all because there is no natural boundaries between languages, you can't objectively decide how far a dialict can deviate from a sibling before it must be treated as a different language.
+before we get into the "Organized" part of the definition, there is one simplification trick regarding the word "Religion" that is used in the field of linguistics and I think is very helpful to borrow for this context. that is, the treatment of dialicts as a separate languages. this is justified in lingustics because there is no natural boundaries between languages, you can't objectively decide how far a dialict can deviate from a sibling before it must be treated as a different language.
 
-In a similar fashion, for the purpose of this discussion only, I shall treat any closed bielef system as a unique religion, without any distinction between a sect, denomination, and religion. every citizen will get a first-class citizin treatment. so you will see terms like "the sunna religion", "the shia religion", "the baptists religion", "the catholic religion" and so on.
+In a similar fashion, for the purpose of this discussion only, we shall treat any closed bielef system as a unique religion, without any distinction between a sect, denomination, and religion. every citizen will get a first-class citizin treatment here. so you will see terms like "the sunna religion", "the shia religion", "the baptists religion", "the catholic religion" and so on.
 
-there is one last note that has to be adressed about this simplication before we can get to the meat of our case study, this denominational blindness does not hold us from grouping different religions into families based on certain commonalities, so we might group religions that believe in the Abrahamic call as the "Abrahamic family". some religions inside this family holds Jesus christ as their central figure, those we might call "the christian family", etc. what makes this different that the religion-denomination classifications is that  this grouping can be based on any arbitrarily chosen criteria as seen suitable for any specific analysis.
+this is necessary for many reasons. firstly, this allows us to escape unnecessary debates about the 
+
+
+
+there is one last note that has to be adressed about this simplication before we can get to the meat of our case study, we should keep in mind that this denominational blindness does not hold us from grouping different religions into families based on certain commonalities. So we might group religions that believe in the Abrahamic call as the "Abrahamic family". some religions inside this family holds Jesus christ as their central figure, those we might call "the christian family", etc. what makes this different than the religion-denomination-sect classifications is that this grouping can be based on any arbitrarily chosen criteria as seen suitable for any special-purpose analysis.
 
 we we might speak about a big family as "Abrahamic family" and a smaller family within it that we might call the "christian fanily" devided into "protestant family" and "traditional christian family", etc. this is very different than the religion-denomination taxonomy, rather, it's a grouping of equal elements 
 

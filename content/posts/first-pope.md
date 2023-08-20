@@ -29,9 +29,18 @@ it took centuries for the old church to realize the kingship of God's anointed o
 but the book of Judges is describing the way the history in a way that can be only done retrospectivly. 
 then there is saul 
 
-this is it.
+the competing arguments against the house of david was based on the interpretation of moses
+
+this is it.`
 
 
+## the three passages that are for the pepacy 
+
+mathew 16
+john 21
+luke 22
 
 
+## the connection between mathew 16:19, to Isaia 22:22. the typological argument
+key question, if this argument is true 
 

@@ -17,12 +17,12 @@ params:
       Content: |
         **I'm glad you found it here. Thanks for stopping by.**
 
-        There is not a lot here. There is nothing to consume, and nothing to consume you. Nothing but the good old human communication of two siblings, comforting themselves in their way and life, in truth.
+        There isn't a lot here. There is nothing to consume, and nothing to consume you, nothing but the good old human communication of two siblings, comforting themselves in their way and life, in truth.
 
 
-        Although  I am calling it a Blog, it doesn't follow necessarily that everything here is a "Blog Post". I write here what doesn't fit the evanescence and pace of everyday conversations, or the noiseness of social media platforms.
+        - Although  I am calling it a Blog, it doesn't follow necessarily that everything here is a "Blog Post". I write here anything that doesn't fit the evanescence and pace of everyday conversations, or the noiseness of social media platforms.
 
-        If you have any comments or thoughts to share on anything posted here, let's exchange emails about them on (saadjsct@gmail.com)
+        If you have any comments or thoughts to share, let's exchange emails about them on (saadjsct@gmail.com) "
 
   fuseOpts:
       isCaseSensitive: false

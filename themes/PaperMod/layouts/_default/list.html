@@ -63,7 +63,14 @@
 {{- $class = "post-entry tag-entry" }}
 {{- end }}
 
+<!-- <article class="{{ $class }}" dir="rtl"> -->
+
+{{- if (.Param "arabic") }}
+<article class="{{ $class }}" dir="rtl">
+{{- else }}
 <article class="{{ $class }}">
+{{- end }}
+
   {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
   <header class="entry-header">
