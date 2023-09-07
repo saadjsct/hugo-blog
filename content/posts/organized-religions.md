@@ -15,41 +15,15 @@ draft: true
 this loose usage of the word is so wide spread that it has found its way to many English dictionaries. for example the [meriam webster's definition](https://www.merriam-webster.com/dictionary/organized%20religion) of organized religion is:
 > "a belief system that has large numbers of followers and a set of rules that must be followed".
 
-but frankly you can't blame the dictionaries. a general dictionary is (and should be) descriptive by nature, not prescriptive. that is, it should only be concerned with how the words are used, not how they should be used. but for the purpose of our discussion those definitions provide for us an evidence of how the popular usage of the word has gone far away from its formal usage.
+but frankly you can't blame the dictionaries. a general dictionary is (and should be) descriptive by nature, not prescriptive. that is, it should only be concerned with how the words are used, not how they should be used. nevertheless, for the purpose of our discussion, those definitions provide for us an indication for how this popular usage of the word has gone far away from its formal usage.
 
-The most significant reccurrent error resulting from this usage is the often inclusion of Islam in lists of organized religion. According to Wikipedia's [page on  religion](https://en.wikipedia.org/wiki/Religion), 
+One of the most significant reccurrent error resulting from such usage is the often inclusion of Islam in lists of organized religion. According to Wikipedia's [page on  religion](https://en.wikipedia.org/wiki/Religion), 
 >"Many world religions are also organized religions, most definitively including the Abrahamic religions Christianity, Islam, and Judaism."
 
 which is *"most definively"* false. as I come across this kind of statements more and more, I am beginning to see a direct link between many aspects of the west's aproach to Islam and statments of this kind.
 
-in this post I will try to objectivly look into what does it mean for a religion to be "organized" or "institutional", And why such classification is necessary for a religious discource free of false assumptions and wrong expectations from each other.
+In this article I will try to objectivly look into what does it mean for a religion to be "organized" or "institutional", And why such classification is necessary for a religious discource free of false assumptions and wrong expectations from each other.
 
 # defining Organized Religion
-
-before we get into the "Organized" part of the definition, there is one simplification trick regarding the word "Religion" that is used in the field of linguistics and I think is very helpful to borrow for this context. that is, the treatment of dialicts as a separate languages. this is justified in lingustics because there is no natural boundaries between languages, you can't objectively decide how far a dialict can deviate from a sibling before it must be treated as a different language.
-
-In a similar fashion, for the purpose of this discussion only, we shall treat any closed bielef system as a unique religion, without any distinction between a sect, denomination, and religion. every citizen will get a first-class citizin treatment here. so you will see terms like "the sunna religion", "the shia religion", "the baptists religion", "the catholic religion" and so on.
-
-this is necessary for many reasons. firstly, this allows us to escape unnecessary debates about the 
-
-
-
-there is one last note that has to be adressed about this simplication before we can get to the meat of our case study, we should keep in mind that this denominational blindness does not hold us from grouping different religions into families based on certain commonalities. So we might group religions that believe in the Abrahamic call as the "Abrahamic family". some religions inside this family holds Jesus christ as their central figure, those we might call "the christian family", etc. what makes this different than the religion-denomination-sect classifications is that this grouping can be based on any arbitrarily chosen criteria as seen suitable for any special-purpose analysis.
-
-we we might speak about a big family as "Abrahamic family" and a smaller family within it that we might call the "christian fanily" devided into "protestant family" and "traditional christian family", etc. this is very different than the religion-denomination taxonomy, rather, it's a grouping of equal elements 
-
-# unorganized variants of organized religions
-
-# false assumptions raised 
-
-
-
-
-
-
-
-
-
-
 
 
