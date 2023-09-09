@@ -2,10 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Saad JSCT</title>
-    <link>http://example.org/</link>
+    <link>https://saadjsct.gitlab.io/</link>
     <description>Recent content on Saad JSCT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Aug 2023 05:59:57 +0300</lastBuildDate><atom:link href="https://saadjsct.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>الأسرار الوردية من الكتاب المقدس و فن الكنيسة</title>
+      <link>https://saadjsct.gitlab.io/posts/contemplating-the-rosary/</link>
+      <pubDate>Mon, 21 Aug 2023 05:59:57 +0300</pubDate>
+      
+      <guid>https://saadjsct.gitlab.io/posts/contemplating-the-rosary/</guid>
+      <description>منذ الرضى الذي أظهرته مريم بالإيمان، في يوم البشارة، و الذي احتفظت به على ثباته قرب الصليب، تمتد أمومتها إلى أخوة ابنها و أخواته &amp;ldquo;الذين لم ينته شوطهم بعد، و إنما يعانون وطأة المشاق و المحن&amp;rdquo;. إن يسوع، الوسيط الوحيد، هو طريق صلاتنا. و مريم، أمه و أمنا، هي شفافة أمامه: إنها &amp;ldquo;تدل على الطريق&amp;rdquo; (الهادية أو المرشدة)، إنها &amp;ldquo;آتية&amp;rdquo;، بحسب رسم الايقونات التقليدي في الشرق و الغرب. (كتاب التعليم المسيحي للكنيسة الكاثوليكية، فقرة 2674)</description>
+    </item>
+    
+    <item>
+      <title>لا يوجد رجل أخطر من رجل عاد من الموت</title>
+      <link>https://saadjsct.gitlab.io/posts/came-not-to-revenge/</link>
+      <pubDate>Mon, 21 Aug 2023 05:59:57 +0300</pubDate>
+      
+      <guid>https://saadjsct.gitlab.io/posts/came-not-to-revenge/</guid>
+      <description>لسة قاري كومنت على أغنية على اليوتيوب بيقول &amp;ldquo;لا يوجد رجل أخطر من رجل عاد من الموت&amp;rdquo; هي كانت كومنت على أغنية فيها حد بيحكي عن انه بعد ما خلاص بقى مشهور و بيستحمى بالدولارات بيوري نفسه للي باعوه و هو فقير و بيشتم صاحبته الي سابته و حاجات زي كدة. و الجملة شكلها جملة معروفة او جملة مأثورة من فيلم تقريبا.
+هو في الحقيقة مفيش حاجة مش عادية في الأغنية أو في الجملة.</description>
+    </item>
+    
+    <item>
+      <title>قوة المعجزة</title>
+      <link>https://saadjsct.gitlab.io/posts/power-of-the-miracle/</link>
+      <pubDate>Mon, 21 Aug 2023 00:23:45 +0300</pubDate>
+      
+      <guid>https://saadjsct.gitlab.io/posts/power-of-the-miracle/</guid>
+      <description>قوة المعجزة انها بتبرجل الدنيا، بتعمل دوشة، بتلخبط الناس اللي مستّفة دماغها بالطريقة الي على مزاجها و خلاص، بتطرح أسئلة كتير أوي عند كل حد، و كل الأسئلة دي مشروعة و مهم جدا تتسئل. لإن دي قوة المعجزة و هدفها الأول، إنها تتحدى الأفكار&amp;hellip; المعجزة قوة بتُخضع محدودية العقل لعلو الإيمان و عظم طرق الله. قوة بتدوب القلب اللي اتقسّى بحصون عقلية مشيدة ضد الحقيقية، و تحوله لقلب رقيق بوداعة العقل الحكيم.</description>
+    </item>
+    
+    <item>
+      <title>Bible Cross-references Visualization</title>
+      <link>https://saadjsct.gitlab.io/posts/bible-cross-references/</link>
+      <pubDate>Wed, 02 Aug 2023 01:29:20 +0300</pubDate>
+      
+      <guid>https://saadjsct.gitlab.io/posts/bible-cross-references/</guid>
+      <description>This stunning photo is an output of a data visualization project made by the genius Chris Harrison on the immense sophistication of cross-references within the Bible. you can say this is how a data scientist would contemplate the Scriptures. But to fully unlock its beauty and the spiritual realities it depicts, we need firstly to translate those intersected lines into a human language.
+The gray and white vertical bars on the lower horizontal axis denote chapters of the Bible books (starting from the left with Genesis 1).</description>
+    </item>
+    
     
   </channel>
 </rss>
