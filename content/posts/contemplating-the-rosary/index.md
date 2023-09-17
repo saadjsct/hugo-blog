@@ -3,6 +3,8 @@ title: "الأسرار الوردية من الكتاب المقدس و فن ا�
 date: 2023-08-21T05:59:57+03:00
 # tags: [""]
 arabic: true
+showtoc: true
+tocopen: true
 cover:
     image: "istockphoto-474632090-612x612.jpg" # image path/url
     alt: "The Annunciation" # alt text

@@ -4,13 +4,15 @@ languageCode: en-us
 theme: "PaperMod"
 title: "Saad JSCT"
 
+
 enableInlineShortcodes: true
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
+ignoreFiles: "/posts/templates/*"
 
 params:
-  defaultTheme: dark
+  defaultTheme: light
   title: "Saad JSCT"
   homeInfoParams:
       Title: A Blog on The INTERNET! 🎉

@@ -1,0 +1,11 @@
+{
+  "fileDirections": {
+    "looking-up-for-god.md": "rtl",
+    "contemplating-the-rosary/index.md": "auto"
+  },
+  "defaultDirection": "ltr",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
