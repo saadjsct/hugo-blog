@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbcb932738bf7a6b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "divine-mercy-chaplet/Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bible-cross-references.md",
+                "file": "divine-mercy-chaplet/Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bible-cross-references.md",
+                "file": "divine-mercy-chaplet/Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bible-cross-references.md"
+                "file": "divine-mercy-chaplet/Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg"
               }
             }
           },
@@ -156,13 +167,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2f14bad2b35485d",
+  "active": "dbcb932738bf7a6b",
   "lastOpenFiles": [
-    "test posting with obsedian.md",
-    "bible-cross-references.md",
+    "divine-mercy-chaplet/index.md",
+    "divine-mercy-chaplet/vilnius_1600-1200x900.jpg",
+    "divine-mercy-chaplet/vilnius_1600-1200x900.jpg.crdownload",
     "contemplating-the-rosary/index.md",
+    "divine-mercy-chaplet/Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg",
+    "divine-mercy-chaplet/Original_painting_of_the_Divine_Mercy.jpg",
+    "divine-mercy-chaplet/Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg.crdownload",
+    "divine-mercy-chaplet/Original_painting_of_the_Divine_Mercy.jpg.crdownload",
+    "divine-mercy-chaplet",
+    "came-not-to-revenge.md",
+    "power-of-the-miracle.md",
+    "bible-cross-references.md",
+    "test posting with obsedian.md",
     "looking-up-for-god.md",
-    "Untitled.md",
     "templates/Posts.md",
     "templates",
     ",templates",

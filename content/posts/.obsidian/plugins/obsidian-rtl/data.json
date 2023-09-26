@@ -1,7 +1,8 @@
 {
   "fileDirections": {
     "looking-up-for-god.md": "rtl",
-    "contemplating-the-rosary/index.md": "auto"
+    "contemplating-the-rosary/index.md": "auto",
+    "divine-mercy-chaplet/index.md": "auto"
   },
   "defaultDirection": "ltr",
   "rememberPerFile": true,
