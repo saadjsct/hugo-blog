@@ -3,6 +3,7 @@ title: "لا يوجد رجل أخطر من رجل عاد من الموت"
 date: 2023-08-21T05:59:57+03:00
 # tags: [""]
 arabic: true
+draft: true
 #cover:
 #    image: "<image path/url>" # image path/url
 #    alt: "<alt text>" # alt text

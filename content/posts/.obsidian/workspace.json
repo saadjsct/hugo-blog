@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contemplating-the-rosary/index.md",
+                "file": "power-of-the-miracle.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fef956af10865466",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contemplating-the-rosary/index.md",
+                "file": "power-of-the-miracle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "contemplating-the-rosary/index.md",
+                "file": "power-of-the-miracle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contemplating-the-rosary/index.md"
+                "file": "power-of-the-miracle.md"
               }
             }
           },
@@ -182,20 +181,23 @@
   },
   "active": "dbcb932738bf7a6b",
   "lastOpenFiles": [
+    "organized-religions.md",
+    "looking-up-for-god.md",
+    "first-pope.md",
+    "fathers-philosophy.md",
+    "came-not-to-revenge.md",
     "bible-cross-references.md",
-    "divine-mercy-chaplet/Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg",
     "divine-mercy-chaplet/index.md",
+    "contemplating-the-rosary/index.md",
+    "divine-mercy-chaplet/Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg",
     "divine-mercy-chaplet/vilnius_1600-1200x900.jpg",
     "divine-mercy-chaplet/vilnius_1600-1200x900.jpg.crdownload",
-    "contemplating-the-rosary/index.md",
     "divine-mercy-chaplet/Original_painting_of_the_Divine_Mercy.jpg",
     "divine-mercy-chaplet/Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg.crdownload",
     "divine-mercy-chaplet/Original_painting_of_the_Divine_Mercy.jpg.crdownload",
     "divine-mercy-chaplet",
-    "came-not-to-revenge.md",
     "power-of-the-miracle.md",
     "test posting with obsedian.md",
-    "looking-up-for-god.md",
     "templates/Posts.md",
     "templates",
     ",templates",

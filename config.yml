@@ -2,7 +2,7 @@ baseURL: https://saadjsct.gitlab.io/
 
 languageCode: en-us
 theme: "PaperMod"
-title: "Saad JSCT"
+title: "saadjsct.github.io"
 
 
 enableInlineShortcodes: true

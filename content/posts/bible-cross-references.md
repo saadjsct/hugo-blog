@@ -2,7 +2,7 @@
 title: "Bible Cross-references Visualization"
 date: 2023-08-02T01:29:20+03:00
 # tags: [""]
-draft: false
+draft: true
 cover:
     image: "/images/BibleVizArc7WiderOTNTsmall.png" # image path/url
 ---

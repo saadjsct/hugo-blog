@@ -2,7 +2,7 @@
 title: "قوة المعجزة"
 date: 2023-08-21T00:23:45+03:00
 # tags: [""]
-draft: false
+draft: true
 arabic: true
 cover:
   image: "/images/the-born-blind.jpg"

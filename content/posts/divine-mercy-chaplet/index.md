@@ -2,6 +2,7 @@
 title: "مسبحة الرحمة الإلهية"
 date: 2023-09-26T05:59:57+03:00
 # tags: [""]
+draft: true
 arabic: true
 cover:
     image: "vilnius_1600-1200x900.jpg" # image path/url
